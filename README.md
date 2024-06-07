@@ -1,3 +1,6 @@
+# Quick Start
+Check the [quick start](https://github.com/MurmursDev/TypeeChromeExtensionDoc/blob/main/docs/quick-start.md) First
+
 # What is Typee Chrome Extension
 
 Typee Browser Extension is keyboard first productivity tool that helps you interact with browser faster and more
