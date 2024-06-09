@@ -223,6 +223,17 @@
           },
           "name": "tabGroup-update-4",
           "output": []
+        },
+        {
+          "name": "removeKeyOfTheHiddenGroup",
+          "app": "storage",
+          "action": "remove",
+          "output": [],
+          "description": "Remove a value from storage",
+          "input": {
+            "key": "$trigger.hiddenTabGroup",
+            "store": "HiddenTabGroups"
+          }
         }
       ],
       "description": "Show Hidden Tab Group",
