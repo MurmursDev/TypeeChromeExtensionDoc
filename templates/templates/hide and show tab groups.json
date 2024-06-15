@@ -6,6 +6,7 @@
       "description": "Hide Tab Group",
       "id": "hideTabGroup",
       "name": "Hide Tab Group",
+      "eagerExecution": true,
       "options": [
         {
           "description": "Tab Group To Hide",
@@ -19,6 +20,7 @@
       "description": "Show Hidden Tab Group",
       "id": "showHiddenTabGroup",
       "name": "Show Hidden Tab Group",
+      "eagerExecution": true,
       "options": [
         {
           "description": "Hidden Tab Group to show",
